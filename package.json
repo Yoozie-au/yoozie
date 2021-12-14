@@ -1,0 +1,14 @@
+{
+  "name": "yoozie",
+  "version": "1.0.0",
+  "description": "yoozie.com.au website",
+  "main": "index.js",
+  "scripts": {
+    "dev:hugo": "cd hugo && hugo server --environment development --disableFastRender"
+  },
+  "keywords": [
+    "itinerary"
+  ],
+  "author": "hadi salheb",
+  "license": "ISC"
+}
