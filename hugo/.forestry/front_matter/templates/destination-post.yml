@@ -64,3 +64,31 @@ fields:
     schema:
       format: markdown
   label: Tips
+- name: tipList
+  type: field_group_list
+  fields:
+  - name: tipText
+    type: text
+    config:
+      required: true
+    label: Tip Text
+  - name: tipIcon
+    type: select
+    default: document
+    config:
+      required: true
+      options:
+      - document
+      - map
+      - money
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Tip Icon
+  config:
+    min: 
+    max: 
+    labelField: tipText
+  label: Tip List
