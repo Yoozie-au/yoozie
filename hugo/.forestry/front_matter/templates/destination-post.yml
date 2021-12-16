@@ -29,3 +29,19 @@ fields:
     - Wildlife
     - Professional Guides
   label: Tags
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: Used for SEO. Fallback for Headline.
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+  description: Used for SEO
