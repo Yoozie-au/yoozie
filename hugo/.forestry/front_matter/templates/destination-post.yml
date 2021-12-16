@@ -2,6 +2,27 @@
 label: Destination Post
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: Used for SEO. Fallback for Headline.
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+  description: Used for SEO
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
 - name: tags
   type: list
   config:
@@ -29,3 +50,80 @@ fields:
     - Wildlife
     - Professional Guides
   label: Tags
+- name: tips
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Tips
+- name: tipList
+  type: field_group_list
+  fields:
+  - name: tipText
+    type: text
+    config:
+      required: true
+    label: Tip Text
+  - name: tipIcon
+    type: select
+    default: document
+    config:
+      required: true
+      options:
+      - document
+      - map
+      - money
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Tip Icon
+  config:
+    min: 
+    max: 
+    labelField: tipText
+  label: Tip List
+- name: instragram
+  type: field_group
+  config: {}
+  fields:
+  - name: username
+    type: text
+    config:
+      required: true
+    label: Username
+  - name: images
+    type: image_gallery
+    config: {}
+    label: Images
+  label: Instragram
+- name: details
+  type: field_group
+  config: {}
+  fields:
+  - name: name
+    type: text
+    config:
+      required: true
+    label: Name
+  - name: number
+    type: number
+    label: Number
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+      required: true
+  - name: address
+    type: text
+    config:
+      required: true
+    label: Address
+  label: Details

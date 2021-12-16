@@ -9,7 +9,7 @@ sections:
   label: Demo
   create: documents
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - destination-post
 upload_dir: hugo/static/uploads
