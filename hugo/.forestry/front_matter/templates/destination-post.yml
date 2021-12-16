@@ -101,3 +101,29 @@ fields:
     config: {}
     label: Images
   label: Instragram
+- name: details
+  type: field_group
+  config: {}
+  fields:
+  - name: name
+    type: text
+    config:
+      required: true
+    label: Name
+  - name: number
+    type: number
+    label: Number
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+      required: true
+  - name: address
+    type: text
+    config:
+      required: true
+    label: Address
+  label: Details
