@@ -96,4 +96,8 @@ fields:
     config:
       required: true
     label: Username
+  - name: images
+    type: image_gallery
+    config: {}
+    label: Images
   label: Instragram
