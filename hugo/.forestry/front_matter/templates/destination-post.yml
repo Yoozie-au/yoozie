@@ -45,3 +45,13 @@ fields:
       format: markdown
   label: Description
   description: Used for SEO
+- name: mainImage
+  type: file
+  config:
+    maxSize: 64
+  label: Main Image
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
+  description: Gallery images
