@@ -92,3 +92,13 @@ fields:
     max: 
     labelField: tipText
   label: Tip List
+- name: instragram
+  type: field_group
+  config: {}
+  fields:
+  - name: username
+    type: text
+    config:
+      required: true
+    label: Username
+  label: Instragram
