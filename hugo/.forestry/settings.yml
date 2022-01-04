@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Destinations
 - type: directory
   path: hugo/content/nsw
   label: NSW
@@ -11,8 +13,6 @@ sections:
   match: "**/**"
   templates:
   - destination-post
-- type: heading
-  label: Destinations
 upload_dir: hugo/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
