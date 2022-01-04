@@ -8,9 +8,16 @@ sections:
   label: Destinations
 - type: directory
   path: hugo/content/destinations/nsw
-  label: NSW
+  label: New South Wales
   create: all
   match: "**/**"
+  templates:
+  - destination-post
+- type: directory
+  path: hugo/content/destinations/qld
+  label: Queensland
+  create: all
+  match: "**/*"
   templates:
   - destination-post
 upload_dir: hugo/static/uploads
