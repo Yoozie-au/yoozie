@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Destinations
 - type: directory
-  path: hugo/content/nsw
+  path: hugo/content/destinations/nsw
   label: NSW
   create: all
   match: "**/**"
