@@ -10,5 +10,9 @@
     "itinerary"
   ],
   "author": "hadi salheb",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2"
+  }
 }
