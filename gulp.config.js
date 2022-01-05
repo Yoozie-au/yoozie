@@ -9,5 +9,12 @@ export default function(env){
         dest,
         tmp,
         build,
+        styles:{
+            src:[
+                src + "css/*.+(css|scss|sass)",
+                src + "scss/*.+(css|scss|sass)"
+            ],
+            dest: dest + "static/css",
+        }
     }
 }
