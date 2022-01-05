@@ -66,16 +66,11 @@ fields:
       required: true
     label: Name
   - name: number
-    type: number
-    label: Number
-    description: ''
-    default: 0
-    required: true
+    type: text
     config:
-      min: 
-      max: 
-      step: 
       required: true
+    label: Number
+    description: 'Format: (XX) XXXX XXXX'
   - name: address
     type: text
     config:
