@@ -77,15 +77,6 @@ fields:
       required: true
     label: Address
   label: Details
-- name: tips
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Tips
 - name: tipList
   type: field_group_list
   fields:
