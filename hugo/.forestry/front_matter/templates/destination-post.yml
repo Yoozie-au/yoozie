@@ -94,6 +94,12 @@ fields:
       - document
       - map
       - money
+      - water bottle
+      - insect repellent
+      - sunscreen
+      - umbrella
+      - shoes
+      - sunglasses
       source:
         type: simple
         section: 
