@@ -66,31 +66,17 @@ fields:
       required: true
     label: Name
   - name: number
-    type: number
-    label: Number
-    description: ''
-    default: 0
-    required: true
+    type: text
     config:
-      min: 
-      max: 
-      step: 
       required: true
+    label: Number
+    description: 'Format: (XX) XXXX XXXX'
   - name: address
     type: text
     config:
       required: true
     label: Address
   label: Details
-- name: tips
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Tips
 - name: tipList
   type: field_group_list
   fields:
@@ -108,6 +94,12 @@ fields:
       - document
       - map
       - money
+      - water bottle
+      - insect repellent
+      - sunscreen
+      - umbrella
+      - shoes
+      - sunglasses
       source:
         type: simple
         section: 
