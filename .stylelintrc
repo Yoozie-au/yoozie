@@ -1,10 +1,12 @@
 # Configures CSS Linting
 # https://stylelint.io/
 
+# good baseline/foundation rules 
 extends:
-    - stylelint-config-standard
     - stylelint-config-sass-guidelines
     - stylelint-config-standard-scss
+    - stylelint-config-recommended-scss
+# extra rules we can apply
 plugins:
     - stylelint-scss
     - stylelint-no-unsupported-browser-features

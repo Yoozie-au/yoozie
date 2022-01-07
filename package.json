@@ -14,7 +14,7 @@
     "eslint": "node ./node_modules/eslint/bin/eslint.js src/js/ --ext .js",
     "eslint:fix": "node ./node_modules/eslint/bin/eslint.js src/js/ --ext .js --fix",
     "stylelint": "npm run stylelint:scss",
-    "stylelint:fix": "npm run stylelint:scss --fix",
+    "stylelint:fix": "stylelint src/scss/**/*.scss --fix",
     "stylelint:scss": "stylelint src/scss/**/*.scss",
     "precommit": "lint-staged"
   },
@@ -99,6 +99,7 @@
     "lint-staged": "^10.2.10",
     "prettier": "^2.0.5",
     "stylelint": "^14.1.0",
+    "stylelint-config-recommended-scss": "^5.0.2",
     "stylelint-config-sass-guidelines": "^ 7.0.0",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-config-standard-scss": "^3.0.0",
