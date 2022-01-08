@@ -76,6 +76,11 @@ fields:
     config:
       required: true
     label: Address
+  - name: website
+    type: text
+    config:
+      required: false
+    label: Website
   label: Details
 - name: tipList
   type: field_group_list
