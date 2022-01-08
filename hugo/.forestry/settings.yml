@@ -20,7 +20,7 @@ sections:
   match: "**/*"
   templates:
   - destination-post
-upload_dir: hugo/static/uploads
+upload_dir: hugo/content/uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
