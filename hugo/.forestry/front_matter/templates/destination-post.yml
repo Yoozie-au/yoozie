@@ -86,6 +86,11 @@ fields:
     config:
       required: false
     label: Booking Link
+  - name: openingHours
+    type: text
+    config:
+      required: false
+    label: Opening Hours
   label: Details
 - name: tipList
   type: field_group_list
