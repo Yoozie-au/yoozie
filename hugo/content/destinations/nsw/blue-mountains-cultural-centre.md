@@ -14,7 +14,7 @@ tipList:
 - tipIcon: money
   tipText: Money
 instragram:
-  username: xxx
+  username: bluemountainsculturalcentre
   images: []
 draft: true
 
