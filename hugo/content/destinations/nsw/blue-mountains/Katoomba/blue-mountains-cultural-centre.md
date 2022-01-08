@@ -12,7 +12,7 @@ details:
   address: Level 1, 30 Parke St Katoomba
 tipList:
 - tipIcon: money
-  tipText: Money
+  tipText: ''
 instragram:
   username: bluemountainsculturalcentre
   images:
