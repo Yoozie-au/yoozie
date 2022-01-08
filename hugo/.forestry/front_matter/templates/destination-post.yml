@@ -80,11 +80,6 @@ fields:
 - name: tipList
   type: field_group_list
   fields:
-  - name: tipText
-    type: text
-    config:
-      required: true
-    label: Tip Text
   - name: tipIcon
     type: select
     default: document
