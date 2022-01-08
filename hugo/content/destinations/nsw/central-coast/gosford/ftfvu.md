@@ -2,7 +2,7 @@
 title: Gosford Regional Gallery
 description: Gosford Regional Gallery
 image: ''
-headline: ''
+headline: Gosford Regional Gallery
 tags:
 - Art & Culture
 details:
