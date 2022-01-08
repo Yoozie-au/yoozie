@@ -11,7 +11,7 @@ details:
   address: 36 Webb St, East Gosford NSW 2250
 tipList: []
 instragram:
-  username: jj
+  username: ''
   images: []
 draft: true
 
