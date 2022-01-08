@@ -17,7 +17,6 @@ instragram:
   username: bluemountainsculturalcentre
   images:
   - "/uploads/blue-mountains-cultural-centre-insta.PNG"
-draft: true
 
 ---
 The Cultural Centre showcases innovative, diverse, distinctive and creative cultural programs for enjoyment by residents of, and visitors to, the Blue Mountains.
