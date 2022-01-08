@@ -111,11 +111,6 @@ fields:
         file: 
         path: 
     label: Tip Icon
-  - name: iconText
-    type: text
-    config:
-      required: false
-    label: Icon Text
   config:
     min: 
     max: 
