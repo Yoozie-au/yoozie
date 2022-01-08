@@ -120,7 +120,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: tipText
+    labelField: tipIcon
   label: Tip List
 - name: instragram
   type: field_group
