@@ -94,6 +94,7 @@ fields:
       - umbrella
       - sunglasses
       - hiking shoes
+      - camera
       source:
         type: simple
         section: 
