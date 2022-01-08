@@ -86,15 +86,14 @@ fields:
     config:
       required: true
       options:
-      - document
       - map
       - money
       - water bottle
       - insect repellent
       - sunscreen
       - umbrella
-      - shoes
       - sunglasses
+      - hiking shoes
       source:
         type: simple
         section: 
