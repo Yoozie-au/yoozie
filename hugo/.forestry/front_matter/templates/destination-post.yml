@@ -81,6 +81,8 @@ fields:
     config:
       required: false
     label: Opening Hours
+    description: 'Mon: 00:00 AM|PM - 00:00 AM|PM<br>Options: Mon, Tue, Wed, Thu, Fri,
+      Sat, Sun'
   - name: website
     type: text
     config:
