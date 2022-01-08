@@ -105,6 +105,7 @@ fields:
       - sunglasses
       - hiking shoes
       - camera
+      - other
       source:
         type: simple
         section: 
