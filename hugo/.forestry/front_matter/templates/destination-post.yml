@@ -81,6 +81,11 @@ fields:
     config:
       required: false
     label: Website
+  - name: bookingLink
+    type: text
+    config:
+      required: false
+    label: Booking Link
   label: Details
 - name: tipList
   type: field_group_list
