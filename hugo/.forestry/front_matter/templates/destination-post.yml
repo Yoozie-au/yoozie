@@ -111,10 +111,15 @@ fields:
         file: 
         path: 
     label: Tip Icon
+  - name: tipText
+    type: text
+    config:
+      required: false
+    label: Tip Text
   config:
     min: 
     max: 
-    labelField: tipIcon
+    labelField: tipText
   label: Tip List
 - name: instragram
   type: field_group
