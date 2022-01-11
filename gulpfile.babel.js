@@ -9,10 +9,10 @@ import dotenv from "dotenv"
 import fs from "fs"
 import gulp from "gulp"
 import GulpConfig from "./gulp.config.js"
-import imagemin from "gulp-imagemin"
+import imagemin, { mozjpeg, gifsicle, optipng, svgo } from "gulp-imagemin"
 import named from "vinyl-named"
 import newer from "gulp-newer"
-import {basename, dirname, relative, resolve} from "path"
+import path, {basename, dirname, relative, resolve} from "path"
 import postcss from "gulp-postcss"
 import rename from "gulp-rename"
 import runsequence from "run-sequence"
@@ -178,8 +178,8 @@ gulp.task("images", () => {
   return gulp
     .src(gulpConfig.images.src)
     .pipe(debounce({wait: 1000}))
+    .pipe(imagemin([gifsicle(), mozjpeg(), optipng(), svgo()],{verbose: isProduction ? true : true}))
     .pipe(newer(gulpConfig.images.dest))
-    .pipe(imagemin([], {verbose: isProduction ? true : false}))
     .pipe(gulp.dest(gulpConfig.images.dest))
     .pipe(browserSync.stream())
 })
