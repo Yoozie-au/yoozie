@@ -14,7 +14,7 @@ details:
   address: 36 Webb St, East Gosford NSW 2250
   openingHours: 'Mon - Sun: 09:30 AM - 04:00 PM'
   website: https://www.centralcoast.nsw.gov.au/recreation/venues-and-facilities/galleries/gosford-regional-gallery/
-  bookingLink: ''
+  bookingLink: No booking required
 tipList:
 - tipIcon: other
   tipText: Try out the on-site cafe, the Top Point Cafe
