@@ -10,6 +10,11 @@ details:
   name: Blue Mountains Cultural Centre
   number: "(02) 4780 5410"
   address: Level 1, 30 Parke St Katoomba
+  website: https://bluemountainsculturalcentre.com.au/
+  openingHours: |-
+    Mon-Fri: 10:00 AM - 5:00 PM
+    Sat-Sun: 10:00 AM - 4:00 PM
+  bookingLink: https://bluemountainsculturalcentre.com.au/contact-us/plan-your-visit/
 tipList:
 - tipIcon: money
   tipText: ''
@@ -19,6 +24,8 @@ instragram:
   - "/uploads/blue-mountains-cultural-centre-insta.PNG"
 
 ---
+The Cultural Centre highlights 
+
 The Cultural Centre showcases innovative, diverse, distinctive and creative cultural programs for enjoyment by residents of, and visitors to, the Blue Mountains.
 
 Located in the heart of Katoomba the Blue Mountains Cultural Centre encompasses the Blue Mountains City Art Gallery, Katoomba Library and Into the Blue, an interactive exhibition that explores the history and natural landscape of the Blue Mountains.
