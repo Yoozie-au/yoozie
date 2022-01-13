@@ -16,10 +16,18 @@ details:
     Mon-Fri: 10:00 AM - 03:00 PM
     SAT: 10:00 AM - 06:00 PM
     SUN: 10:00 AM - 04:00 PM
-tipList: []
+tipList:
+- tipIcon: camera
+  tipText: ''
+- tipIcon: money
+  tipText: ''
 instragram:
   username: ''
   images: []
-draft: true
 
 ---
+Lost Bear Gallery is an outstanding location that feature a diverse collection of paintings, sculptures, ceramics and glass art made by Australian Artists. 
+
+This newly renovated gallery has become one of the most charming art galleries in the Blue Mountains. 
+
+Lost Bear Gallery is an easily accessible place due to its considerable street and private parkings. 
