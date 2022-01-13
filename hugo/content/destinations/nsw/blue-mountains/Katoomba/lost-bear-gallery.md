@@ -24,6 +24,7 @@ tipList:
 instragram:
   username: ''
   images: []
+draft: true
 
 ---
 Lost Bear Gallery is an outstanding location that feature a diverse collection of paintings, sculptures, ceramics and glass art made by Australian Artists. 
