@@ -1,6 +1,8 @@
 ---
 title: Gosford Regional Gallery
-description: Gosford Regional Gallery
+description: Gosford Regional Gallery is a tourist attraction on the Central Coast.
+  It's a great cultural, educational and family friendly location. It has an on-site
+  cafe and shop where you can buy a range of goods made by local and regional artists.
 image: ''
 headline: Gosford Regional Gallery
 tags:
