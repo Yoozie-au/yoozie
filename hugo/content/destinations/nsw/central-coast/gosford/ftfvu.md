@@ -20,7 +20,6 @@ tipList:
 instragram:
   username: ''
   images: []
-draft: true
 
 ---
 A cultural and education gem on the Central Coast! The Gallery hosts local, national and international exhibitions.
