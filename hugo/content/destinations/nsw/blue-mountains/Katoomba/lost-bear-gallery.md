@@ -1,0 +1,25 @@
+---
+title: Lost Bear Gallery
+description: Art in a variety of media & made in the local area is shown & sold at
+  this modern gallery.
+image: ''
+headline: Lost Bear Gallery
+tags:
+- Art & Culture
+details:
+  name: Lost Bear Gallery
+  number: "(02) 4782 1220"
+  address: 98 Lurline St, Katoomba NSW 2780
+  website: https://lostbeargallery.com.au/
+  bookingLink: https://lostbeargallery.com.au/contact/
+  openingHours: |-
+    Mon-Fri: 10:00 AM - 03:00 PM
+    SAT: 10:00 AM - 06:00 PM
+    SUN: 10:00 AM - 04:00 PM
+tipList: []
+instragram:
+  username: ''
+  images: []
+draft: true
+
+---
