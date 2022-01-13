@@ -24,12 +24,8 @@ instragram:
   - "/uploads/blue-mountains-cultural-centre-insta.PNG"
 
 ---
-The Cultural Centre highlights 
+The Cultural Centre highlights peculiar cultural programs for locals and guests' amusement. 
 
-The Cultural Centre showcases innovative, diverse, distinctive and creative cultural programs for enjoyment by residents of, and visitors to, the Blue Mountains.
+Katoomba is located in the Blue Mountains where its Cultural Centre comprises a gallery, library, shop and cafe. 
 
-Located in the heart of Katoomba the Blue Mountains Cultural Centre encompasses the Blue Mountains City Art Gallery, Katoomba Library and Into the Blue, an interactive exhibition that explores the history and natural landscape of the Blue Mountains.
-
-Visitors can also enjoy the viewing platform that takes in stunning panoramic vistas of Katoomba and the Jamison Valley.
-
-The Blue Mountains Cultural Centre is a sister facility to the [Blue Mountains Theatre and Community Hub](http://bluemountainstheatreandhub.com.au/) and [Braemar Gallery](https://www.facebook.com/Braemargallery/) located in Springwood.
+It is a great place to meet with family and friends, relax by enjoying the extraordinary atmosphere and engage with the educational exhibitions and workshops.  
