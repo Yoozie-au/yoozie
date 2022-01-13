@@ -16,6 +16,7 @@ details:
     Sat-Sun: 10:00 AM - 4:00 PM
   bookingLink: https://bluemountainsculturalcentre.com.au/contact-us/plan-your-visit/
 tipList:
+- tipIcon: camera
 - tipIcon: money
   tipText: ''
 instragram:
