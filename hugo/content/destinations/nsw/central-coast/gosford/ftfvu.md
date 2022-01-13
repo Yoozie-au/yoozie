@@ -6,6 +6,7 @@ description: Gosford Regional Gallery is a tourist attraction on the Central Coa
 image: ''
 headline: Gosford Regional Gallery
 tags:
+- Food & Drinks
 - Art & Culture
 details:
   name: Gosford Regional Gallery
@@ -22,10 +23,10 @@ instragram:
   images: []
 
 ---
-A cultural and education gem on the Central Coast! The Gallery hosts local, national and international exhibitions.
+A cultural and educational gem on the Central Coast! The Gallery hosts local, national and international exhibitions.
 
 The Gallery holds family activities during school holiday periods, so it's a great place for the whole family.
 
-The Gallery has a gallery shop and a cafe, so be sure to stop by at both for some snacks and a souvenir!
+The Gallery has an onsite shop and a cafe, so be sure to stop by at both for some snacks and a souvenir!
 
 Admission into the Gallery is free of charge, but donations are welcomed.
