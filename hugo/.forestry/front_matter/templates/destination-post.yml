@@ -148,5 +148,6 @@ fields:
     label: Images
   label: Instragram
 pages:
+- hugo/content/destinations/nsw/blue-mountains/Katoomba/everglades-garden.md
 - hugo/content/destinations/nsw/blue-mountains/Katoomba/lost-bear-gallery.md
 - hugo/content/destinations/nsw/central-coast/gosford/ftfvu.md
