@@ -68,7 +68,7 @@ fields:
   - name: number
     type: text
     config:
-      required: true
+      required: false
     label: Number
     description: 'Format: (XX) XXXX XXXX'
   - name: address
