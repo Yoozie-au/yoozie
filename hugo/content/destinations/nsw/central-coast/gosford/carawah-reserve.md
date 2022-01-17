@@ -1,8 +1,9 @@
 ---
 title: Carawah Reserve
 description: Carawah Reserve is a park in West Gosford with a short walk that is pram
-  and wheelchair friendly. It is a great picnic spot with an elevated boardwalk over
-  salt marshes, swamp forests, mudflats, mangroves and seagrasses.
+  and wheelchair friendly. It is a relaxing picnic spot with water views. The short
+  walk is on an elevated boardwalk over salt marshes, swamp forests, mudflats, mangroves
+  and seagrasses.
 image: ''
 headline: Carawah Reserve
 tags:
@@ -24,3 +25,4 @@ instragram:
 draft: true
 
 ---
+Carawah Reserve is a park in West Gosford with a short walk that is pram and wheelchair friendly. It is a relaxing picnic spot with water views. The short walk is on an elevated boardwalk over salt marshes, swamp forests, mudflats, mangroves and seagrasses.
