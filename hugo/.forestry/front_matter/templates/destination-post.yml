@@ -76,6 +76,11 @@ fields:
     config:
       required: true
     label: Address
+  - name: googleMapsLink
+    type: text
+    config:
+      required: true
+    label: Google Maps Link
   - name: website
     type: text
     config:
