@@ -3,7 +3,7 @@ title: Bulgandry Aboriginal Art Site
 description: |-
   Bulgandry Aboriginal Art Site is a sacred indigenous site with amazing Aboriginal rock art.
 
-  There is a boardwalk around the artworks that allows you to view and learn about Aboriginal culture while keeping
+  There is a boardwalk around the artworks that allows you to view and learn about Aboriginal culture.
 image: ''
 headline: Bulgandry Aboriginal Art Site
 tags:
@@ -29,3 +29,6 @@ instragram:
 draft: true
 
 ---
+Bulgandry Aboriginal Art Site is a sacred indigenous site with amazing Aboriginal rock art.
+
+There is a boardwalk around the artworks that allows you to view and learn about Aboriginal culture.
