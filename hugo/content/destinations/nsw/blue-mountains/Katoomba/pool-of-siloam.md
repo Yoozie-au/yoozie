@@ -27,7 +27,6 @@ tipList:
 instragram:
   username: ''
   images: []
-draft: true
 
 ---
 The lovely scenery at the Pool of Siloam is stunning and comprising of steep cliffs and a natural swimming hole at the bottom.
