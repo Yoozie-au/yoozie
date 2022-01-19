@@ -9,7 +9,7 @@ details:
   name: Pool of Siloam
   number: "(02) 4787 8877"
   address: Pool of Siloam Track, Blue Mountains National Park NSW 2787
-  googleMapsLink: https://www.google.com/maps/dir/-33.9521623,151.1752784/Hiking+And+Wild+Swimming+At+The+Pool+of+Siloam/@-33.8206766,150.2140818,9z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x6b126ee9d4749e5b:0xe7ecdf199078c0c7!2m2!1d150.3353323!2d-33.7241322
+  googleMapsLink: https://www.google.com/maps/place/Pool+of+Siloam+Track,+Blue+Mountains+NSW+2787/@-33.7258678,150.3349353,17z/data=!3m1!4b1!4m5!3m4!1s0x6b126ec2bd713707:0x9bfa729be62dd6e2!8m2!3d-33.7258723!4d150.337124
   website: http://www.wildwalks.com/bushwalking-and-hiking-in-nsw/blue-mountains-leura/lyrebird-dell-and-pool-of-siloam-circuit.html
   bookingLink: ''
   openingHours: Open 24 Hours
