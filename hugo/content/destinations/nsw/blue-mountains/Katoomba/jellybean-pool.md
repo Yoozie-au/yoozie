@@ -13,6 +13,7 @@ details:
   website: https://www.hellosydneykids.com.au/jellybean-pool-glenbrook-blue-mountains/
   bookingLink: https://pass.nationalparks.nsw.gov.au/pass/selection
   openingHours: 'Mon-Sun: 08:00 AM - 06:00 PM'
+  googleMapsLink: https://www.google.com/maps/place/Jellybean+Pool/@-33.7808094,150.6171017,17z/data=!3m1!4b1!4m5!3m4!1s0x6b1289adae389321:0x2a017d6844bcbe90!8m2!3d-33.781144!4d150.6188024
 tipList: []
 instragram:
   username: ''
