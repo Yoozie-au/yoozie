@@ -16,6 +16,7 @@ details:
     Mon-Fri: 10:00 AM - 03:00 PM
     SAT: 10:00 AM - 06:00 PM
     SUN: 10:00 AM - 04:00 PM
+  googleMapsLink: https://www.google.com/maps/place/Lost+Bear+Gallery/@-33.7205677,150.3099885,17z/data=!3m1!4b1!4m5!3m4!1s0x6b126ea255d62dbb:0xd116ff588a160e4d!8m2!3d-33.7205722!4d150.3121772
 tipList:
 - tipIcon: camera
   tipText: ''
