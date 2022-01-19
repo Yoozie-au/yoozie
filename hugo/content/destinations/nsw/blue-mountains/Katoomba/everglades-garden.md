@@ -14,6 +14,7 @@ details:
   website: https://www.nationaltrust.org.au/places/everglades-house-gardens/
   bookingLink: https://www.eventbrite.com.au/e/everglades-house-gardens-general-entry-tickets-198014505717
   openingHours: 'Wed-Mon: 10:00 AM - 04:00 PM'
+  googleMapsLink: https://www.google.com/maps/place/Everglades+House+%26+Gardens/@-33.7212574,150.3361229,17z/data=!3m1!4b1!4m5!3m4!1s0x6b126ee893ef0d51:0x7b8f29316e2b734d!8m2!3d-33.7212619!4d150.3383116
 tipList:
 - tipIcon: document
   tipText: ''
