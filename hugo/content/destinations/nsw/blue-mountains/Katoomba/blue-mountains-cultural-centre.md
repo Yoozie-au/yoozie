@@ -15,6 +15,7 @@ details:
     Mon-Fri: 10:00 AM - 5:00 PM
     Sat-Sun: 10:00 AM - 4:00 PM
   bookingLink: https://bluemountainsculturalcentre.com.au/contact-us/plan-your-visit/
+  googleMapsLink: https://www.google.com/maps/place/Blue+Mountains+Cultural+Centre/@-33.7142074,150.3086679,16.43z/data=!4m5!3m4!1s0x6b126e9947c3dfa1:0x8c93523511689393!8m2!3d-33.713788!4d150.3102451
 tipList:
 - tipIcon: camera
 - tipIcon: money
