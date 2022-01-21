@@ -27,12 +27,12 @@ tipList:
 instragram:
   username: ''
   images: []
-draft: true
 
 ---
+The Megalong Valley Farm has professional horse riding staff that provide adventurous guided tours along the farm for all different levels of riders.
 
-| --- | --- |
-| In the morning eat a hearty breakfast then enjoy another a leisurely ride or take a ride down to the beautiful Cox's River. The Megalong Overnight Stockman's Ride caters for those who want to experience just the right amount of riding and enjoy the reminisces of riding like in the days long gone without getting too sore and tired. |  |
+The trip begins with an exquisite breakfast then continues with a breezy ride down to the magnificent Cox's River. 
 
-| --- |
-| At the end of the ride, relax and enjoy refreshments at the CiderBarn*. All rides are escorted by fully trained staff well equipped in guiding riders of all levels of experience.(* Not always available) |
+Lastly, the trip ends up with refreshing drinks at the CiderBarn. 
+
+
