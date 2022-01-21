@@ -29,6 +29,10 @@ tipList:
 instragram:
   username: ''
   images: []
-draft: true
 
 ---
+The Colo River is a long river that stretches at around 97 km from Wolgan and Capertee Rivers, North of Lithgow down to Hawkesbury River at Lower of Portland. 
+
+Part of Colo River  is located in a dense bush which with steep cliffs which makes it hardly accessible. However, the lower part is surrounded by private farms which is easily accessible.
+
+At Colo River you can enjoy different types of activities from Liloing, to rafting, canoeing and fishing.
