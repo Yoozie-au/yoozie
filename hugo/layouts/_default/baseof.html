@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html {{ with .Site.LanguageCode }}lang="{{ . }}"{{ end }}>
+<head>
+    {{- block "head" . -}}
+      <title>{{ block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+      {{- partial "head" . -}}
+    {{- end -}}  
+</head>
+<body>
+    {{- block "navbar" . -}}
+      {{/* Use this block to override the navigation for any layout */}}
+      {{- partial "components/navbar" . -}}
+    {{- end -}}
+    
+    {{- block "main" . -}}
+      {{/* Use this block to render the main content for any layout */}}
+    {{- end -}}
+</body>
+</html>

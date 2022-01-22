@@ -61,6 +61,7 @@ gulp.task("styles:production", (cb) => {
     .pipe(sourcemaps.write("."))
     .pipe(
       rename((path) => {
+        path.basename = "styles"
         path.dirname = "/"
 
         if (path.extname.indexOf(".map") < 0) path.extname = ".min.css"
@@ -92,7 +93,7 @@ gulp.task("styles:development", (cb) => {
     .pipe(
       rename((path) => {
         path.dirname = "/"
-
+        path.basename = "styles"
         if (path.extname.indexOf(".map") < 0) path.extname = ".min.css"
 
         return path
