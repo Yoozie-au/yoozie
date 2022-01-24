@@ -153,6 +153,7 @@ fields:
     label: Images
   label: Instragram
 pages:
+- hugo/content/destinations/nsw/blue-mountains/Katoomba/blue-mountains-cox-s-river-rest.md
 - hugo/content/destinations/nsw/blue-mountains/Katoomba/canyoning-abseiling-at-empress-canyon.md
 - hugo/content/destinations/nsw/blue-mountains/Katoomba/everglades-garden.md
 - hugo/content/destinations/nsw/blue-mountains/Katoomba/jellybean-pool.md
