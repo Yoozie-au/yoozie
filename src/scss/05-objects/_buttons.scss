@@ -1,0 +1,16 @@
+.btn{
+    display: inline-block;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: .2em;
+    border: none;
+}
+.btn.btn--md{
+    padding: 0.75em 1em;
+    font-size: min(calc(0.03vw + .95em), 1em);
+}
+
+.btn--primary{
+    background-color: $color-black;
+    color: $color-white;
+}

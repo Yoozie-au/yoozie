@@ -6,16 +6,11 @@
     display:flex;
     align-items: center;
     justify-content: space-evenly;
-    width:70%;
+    width: 60vw;
     margin: 0 auto;
 }
 .nav-item{
     list-style: none;
-}
-.nav-item:last-child{
-    position: absolute;
-    right:0;
-    top:0;
 }
 .nav-item-link{
     color:inherit;
