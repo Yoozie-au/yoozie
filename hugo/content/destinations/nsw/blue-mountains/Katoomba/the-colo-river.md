@@ -1,7 +1,7 @@
 ---
 title: The Colo River
 description: Liloing, rafting and canoeing in Colo River
-image: ''
+image: "/uploads/colo-river.png"
 headline: The Colo River
 tags:
 - Adventure
