@@ -2,7 +2,7 @@
 title: Bulgandry Aboriginal Art Site
 description: Bulgandry Aboriginal Art Site is a sacred indigenous site with amazing
   Aboriginal rock art.
-image: ''
+image: "/uploads/bulgandry-aboriginal-art-site.jpg"
 headline: Bulgandry Aboriginal Art Site
 tags:
 - Tracks & Hikes
