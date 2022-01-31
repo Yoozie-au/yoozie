@@ -2,7 +2,7 @@
 title: Carawah Reserve
 description: Carawah Reserve is a park in West Gosford with a short walk that is pram
   and wheelchair friendly.
-image: ''
+image: "/uploads/carawah-reserve.png"
 headline: Carawah Reserve
 tags:
 - Tracks & Hikes
