@@ -1,10 +1,8 @@
 ---
 title: Bulgandry Aboriginal Art Site
-description: |-
-  Bulgandry Aboriginal Art Site is a sacred indigenous site with amazing Aboriginal rock art.
-
-  There is a boardwalk around the artworks that allows you to view and learn more about the artworks and about Aboriginal culture.
-image: ''
+description: Bulgandry Aboriginal Art Site is a sacred indigenous site with amazing
+  Aboriginal rock art.
+image: "/uploads/bulgandry-aboriginal-art-site.jpg"
 headline: Bulgandry Aboriginal Art Site
 tags:
 - Tracks & Hikes
@@ -16,6 +14,7 @@ details:
   website: https://www.nationalparks.nsw.gov.au/things-to-do/aboriginal-sites/bulgandry-art-site-aboriginal-place/visitor-info
   bookingLink: ''
   openingHours: Open 24 hours
+  googleMapsLink: https://maps.app.goo.gl/zBvjpbpza4nZ6N396
 tipList:
 - tipIcon: water bottle
   tipText: ''

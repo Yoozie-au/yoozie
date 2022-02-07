@@ -2,7 +2,7 @@
 title: Woodford - Oaks trail
 description: Cycling the Woodford – Oaks trail offers dazzling scenic views, heath
   and delightful picnicking near Glenbrook, in Blue Mountains National Park.
-image: ''
+image: "/uploads/woodford-oaks-trail.png"
 headline: Woodford - Oaks trail
 tags:
 - Adventure

@@ -1,9 +1,8 @@
 ---
 title: Gosford Regional Gallery
 description: Gosford Regional Gallery is a tourist attraction on the Central Coast.
-  It's a great cultural, educational and family friendly location. It has an on-site
-  cafe and shop where you can buy a range of goods made by local and regional artists.
-image: ''
+  It's a great cultural, educational and family friendly location.
+image: "/uploads/gosford-regional.jpg"
 headline: Gosford Regional Gallery
 tags:
 - Food & Drinks
@@ -15,6 +14,7 @@ details:
   openingHours: 'Mon - Sun: 09:30 AM - 04:00 PM'
   website: https://www.centralcoast.nsw.gov.au/recreation/venues-and-facilities/galleries/gosford-regional-gallery/
   bookingLink: ''
+  googleMapsLink: https://maps.app.goo.gl/j4ouz9uiq4pjbitA8
 tipList:
 - tipIcon: other
   tipText: Try out the on-site cafe, the Top Point Cafe
