@@ -1,9 +1,7 @@
 {{- define "main" -}}
-  {{.Content}}
   {{ with .Params.image }}
       {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-      {{ $resized := $imageResource.Fit "200x200" }}
-      <img src="{{ $resized.RelPermalink }}" />
-      <img src="{{ $imageResource.RelPermalink }}" />
+      {{ $resized := $imageResource.Fill "1500x300 center" }}
+      <img class="banner" src="{{ $resized.RelPermalink }}" />
   {{ end }}
 {{- end -}}
