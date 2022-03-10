@@ -64,7 +64,8 @@ gulp.task("styles:production", (cb) => {
         path.basename = "styles"
         path.dirname = "/"
 
-        if (path.extname.indexOf(".map") < 0) path.extname = ".min.css"
+        if (path.extname.indexOf(".map") < 0) path.extname = ".min.css" 
+         else path.extname = ".css.map"
 
         return path
       })
@@ -209,7 +210,7 @@ gulp.task("svg", () => {
  * Cleans the build and temp directories
  */
 gulp.task("clean", () => {
-  return del([gulpConfig.tmp, gulpConfig.build], {dot: true})
+  return del([gulpConfig.tmp, gulpConfig.build, gulpConfig.styles.dest], {dot: true})
 })
 
 /**
