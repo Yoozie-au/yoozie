@@ -18,9 +18,10 @@ export default function(env) {
     generator: {
       label: "Hugo",
       command: hugo,
+      // hugo cli args: https://gohugo.io/commands/hugo/
       args: {
         default: ["-v", "--source", resolve(dest), "--destination", resolve(build)],
-        development: ["-b", "http://localhost:3000", "--buildDrafts", "--buildFuture"],
+        development: ["--environment", "production"],
         preview: ["-b", "http://localhost:3000"],
         production: [],
         instantPreview: ["--buildDrafts", "--buildFuture"]
