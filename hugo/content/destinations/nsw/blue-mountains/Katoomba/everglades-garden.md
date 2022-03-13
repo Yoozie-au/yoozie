@@ -29,4 +29,4 @@ The Everglades House & Garden is a modernised house with incredible gardens all 
 
 You will admire the charming art of the terraced gardens and the peaceful reflection pool, the grotto pool. 
 
-People are welcomed to bring their food and enjoy their picnic on the ground of the gardens. 
+People are welcomed to bring their food and enjoy their picnic on the ground of the gardens.

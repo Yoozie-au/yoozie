@@ -18,6 +18,7 @@ tipList: []
 instragram:
   username: ''
   images: []
+draft: true
 
 ---
 Jellybean Pool is located around 2km from the Glenbook Entrance. The pool has a wonderful walking track which is worth the try for any Sydney visitors or for people staying in the Blue Mountains area.
