@@ -31,10 +31,8 @@ instragram:
   images: []
 
 ---
-The Woodford - Oaks trailer is a nice bike track near Glenbrook, in Blue Mountains National Park. 
+The Woodford - Oaks trailer is a nice bike track near Glenbrook, in Blue Mountains National Park.
 
 It is a 27 km distance one-way, medium grade ride that will work your muscles and clear your head.
 
 The track starts at Woodford and ends at Glenbrook making a great scenery trail through the mountains for people after an adrenaline pumping adventure in the clean and fresh environment.
-
-.
