@@ -23,6 +23,7 @@ tipList:
 instragram:
   username: ''
   images: []
+draft: true
 
 ---
 The Everglades House & Garden is a modernised house with incredible gardens all around overlooking Jasmison Valley to Mt Solitary. 
