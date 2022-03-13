@@ -21,6 +21,7 @@ tipList:
 instragram:
   username: ''
   images: []
+draft: true
 
 ---
 The Three Sisters are an unusual rock formation in the Blue Mountains of New South Wales, Australia, on the north escarpment of the Jamison Valley. They are located close to the town of Katoomba and are one of the Blue Mountains' best known sites, towering above the Jamison Valley.
