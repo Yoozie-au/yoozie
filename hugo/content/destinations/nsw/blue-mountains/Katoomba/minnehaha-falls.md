@@ -27,6 +27,7 @@ tipList:
 instragram:
   username: ''
   images: []
+draft: true
 
 ---
 Minnehaha Falls (or Minno-Ha-Ha Falls) is located in Katoomba, known for its splendid water fall view and its swimming pond at the bottom of the fall.

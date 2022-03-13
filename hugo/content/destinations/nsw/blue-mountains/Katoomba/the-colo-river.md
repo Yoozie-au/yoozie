@@ -29,6 +29,7 @@ tipList:
 instragram:
   username: ''
   images: []
+draft: true
 
 ---
 The Colo River is a long river that stretches at around 97 km from Wolgan and Capertee Rivers, North of Lithgow down to Hawkesbury River at Lower of Portland. 

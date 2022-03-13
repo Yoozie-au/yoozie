@@ -21,6 +21,7 @@ tipList:
 instragram:
   username: ''
   images: []
+draft: true
 
 ---
 Cox' River Rest is a family farm stay located in Megalong Valley which is only 2 hours away from Sydney. 

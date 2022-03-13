@@ -25,6 +25,7 @@ tipList:
 instragram:
   username: ''
   images: []
+draft: true
 
 ---
 Bulgandry Aboriginal Art Site is a sacred indigenous site with amazing Aboriginal rock art.

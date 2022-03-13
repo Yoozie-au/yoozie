@@ -27,8 +27,9 @@ tipList:
 instragram:
   username: ''
   images: []
+draft: true
 
 ---
 The lovely scenery at the Pool of Siloam is stunning and comprising of steep cliffs and a natural swimming hole at the bottom.
 
-You can enjoy the relatively moderate walk trail from the carpark down and end up swimming to cool off. 
+You can enjoy the relatively moderate walk trail from the carpark down and end up swimming to cool off.
