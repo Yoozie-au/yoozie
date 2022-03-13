@@ -22,6 +22,7 @@ export default function(env) {
       args: {
         default: ["-v", "--source", resolve(dest), "--destination", resolve(build)],
         development: ["--environment", "development"],
+        uat:["--environment", "uat"],
         preview: ["-b", "http://localhost:3000"],
         production: ["--environment", "production"],
         instantPreview: ["--buildDrafts", "--buildFuture"]

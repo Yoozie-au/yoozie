@@ -1,0 +1,4 @@
+buildDrafts: true
+buildFuture: true
+minify: true
+  
