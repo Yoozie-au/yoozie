@@ -1,2 +1,3 @@
+baseURL: https://yoozie.com.au
 buildDrafts: false
 minify: true
