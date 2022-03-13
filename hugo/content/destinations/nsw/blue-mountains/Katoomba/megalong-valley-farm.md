@@ -27,12 +27,11 @@ tipList:
 instragram:
   username: ''
   images: []
+draft: true
 
 ---
 The Megalong Valley Farm has professional horse riding staff that provide adventurous guided tours along the farm for all different levels of riders.
 
 The trip begins with an exquisite breakfast then continues with a breezy ride down to the magnificent Cox's River. 
 
-Lastly, the trip ends up with refreshing drinks at the CiderBarn. 
-
-
+Lastly, the trip ends up with refreshing drinks at the CiderBarn.

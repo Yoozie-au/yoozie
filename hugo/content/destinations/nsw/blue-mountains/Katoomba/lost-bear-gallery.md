@@ -25,10 +25,11 @@ tipList:
 instragram:
   username: ''
   images: []
+draft: true
 
 ---
 Lost Bear Gallery is an outstanding location that feature a diverse collection of paintings, sculptures, ceramics and glass art made by Australian Artists. 
 
 This newly renovated gallery has become one of the most charming art galleries in the Blue Mountains. 
 
-Lost Bear Gallery is an easily accessible place due to its considerable street and private parkings. 
+Lost Bear Gallery is an easily accessible place due to its considerable street and private parkings.
