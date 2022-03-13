@@ -13,7 +13,17 @@ details:
   website: https://bluemountainsmums.com/listing/pool-of-siloam-leura/
   bookingLink: ''
   openingHours: Open 24 Hours
-tipList: []
+tipList:
+- tipIcon: camera
+  tipText: ''
+- tipIcon: document
+  tipText: ''
+- tipIcon: sunscreen
+  tipText: ''
+- tipIcon: insect repellent
+  tipText: ''
+- tipIcon: water bottle
+  tipText: ''
 instragram:
   username: ''
   images: []
