@@ -28,7 +28,9 @@ const gulpConfig = GulpConfig()
 const generatorEnvVar = gulpConfig.generator.label.toUpperCase() + "_ENV"
 const env =
   process.env[generatorEnvVar] || process.env.NODE_ENV || "development"
-const argsType = process.env.GENERATOR_ARGS || env
+
+// process.env.GENERATOR_ARGS || process.env.HUGO_ENV || process.env.NODE_ENV || "development"  
+const argsType = process.env.GENERATOR_ARGS || env 
 const isProduction = env === "production"
 
 /**
@@ -219,6 +221,7 @@ gulp.task("clean", () => {
  * @param {Function} cb
  */
 function build(cb) {
+  // hugo cli args: https://gohugo.io/commands/hugo/
   const args = gulpConfig.generator.args.default.concat(
     gulpConfig.generator.args[argsType] || []
   )
