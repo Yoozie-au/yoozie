@@ -21,7 +21,7 @@ export default function(env) {
       // hugo cli args: https://gohugo.io/commands/hugo/
       args: {
         default: ["-v", "--source", resolve(dest), "--destination", resolve(build)],
-        development: ["--environment", "production"],
+        development: ["--environment", "development"],
         preview: ["-b", "http://localhost:3000"],
         production: [],
         instantPreview: ["--buildDrafts", "--buildFuture"]
