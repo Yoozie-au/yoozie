@@ -1,0 +1,62 @@
+name: Build, Test and Deploy
+
+on:
+  push:
+    branches:
+      - master
+      - uat
+jobs:
+  build-check-quality:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Cache node modules
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: node-dependencies-${{ hashFiles('**/package-lock.json') }}
+
+      - name: Install node dependencies
+        run: npm install
+
+      - name: Style lint
+        run: npm run stylelint
+
+      - name: esLint
+        run: npm run eslint  
+
+      - name: Build for production
+        if: github.ref == 'refs/heads/master'
+        run: |
+          npm run build:prod  
+          tar -zcvf dist.tar.gz ./dist
+
+      - name: Build for uat
+        if: github.ref == 'refs/heads/uat'
+        run: |
+          npm run build:uat  
+          tar -zcvf dist.tar.gz ./dist   
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+
+      - name: Test html
+        run: |
+          gem install html-proofer -v 3.19.1
+          htmlproofer ./dist --check_html --check_opengraph --check_favicon --disable_external --allow-hash-href --file_ignore=./dist/admin/index.html,./dist/404  
+
+      - name: Deploy uat to netlify
+        if: github.ref == 'refs/heads/uat'
+        uses: nwtgck/actions-netlify@v1.2
+        with:
+          publish-dir: './dist'
+          production-branch: uat
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: "Deploying uat to netlify from GitHub Actions"
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        timeout-minutes: 1
