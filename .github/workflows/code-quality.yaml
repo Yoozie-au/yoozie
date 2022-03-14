@@ -1,0 +1,25 @@
+name: Check code quality
+
+on:
+  pull-request:
+    branches:
+      - master
+      - uat
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Cache node modules
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: node-dependencies-${{ hashFiles('**/package-lock.json') }}
+      - name: Install node dependencies
+        run: npm install
+      - name: Style lint
+        run: npm run stylelint
+      - name: esLint
+        run: npm run eslint  
+
