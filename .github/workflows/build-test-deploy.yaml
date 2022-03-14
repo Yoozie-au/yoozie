@@ -6,7 +6,7 @@ on:
       - master
       - uat
 jobs:
-  build-check-quality:
+  build-test-deploy:
     runs-on: ubuntu-18.04
     steps:
       - name: Checkout repository
