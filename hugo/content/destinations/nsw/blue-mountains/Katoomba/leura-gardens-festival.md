@@ -13,7 +13,13 @@ details:
   website: https://www.leuragardensfestival.com.au/
   bookingLink: ''
   openingHours: Labour Day Weekend and 2nd weekend of October
-tipList: []
+tipList:
+- tipIcon: camera
+  tipText: ''
+- tipIcon: sunscreen
+  tipText: ''
+- tipIcon: water bottle
+  tipText: ''
 instragram:
   username: ''
   images: []
