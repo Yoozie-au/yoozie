@@ -28,3 +28,8 @@ instragram:
 draft: true
 
 ---
+A stunning location of native beauty, with 12 unique garden rooms, sculptures and a cafe.
+
+The gardens are perfect for anything from a casual day out and family outings, to guided tour parties and functions.
+
+There is no charge to visit the gardens, but there is the opportunity for paid guided tours and commercial hire.
