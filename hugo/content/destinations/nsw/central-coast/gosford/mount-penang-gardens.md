@@ -19,7 +19,11 @@ details:
   website: https://www.hccdc.nsw.gov.au/mt-penang-gardens
   bookingLink: ''
   openingHours: ''
-tipList: []
+tipList:
+- tipIcon: map
+  tipText: ''
+- tipIcon: camera
+  tipText: ''
 instragram:
   username: ''
   images: []
