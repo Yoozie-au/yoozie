@@ -20,12 +20,10 @@ details:
   bookingLink: ''
   openingHours: ''
 tipList:
-- tipIcon: map
-  tipText: ''
 - tipIcon: camera
   tipText: ''
 instragram:
-  username: ''
+  username: mt_penang_gardens
   images: []
 draft: true
 
